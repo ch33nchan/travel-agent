@@ -1,6 +1,6 @@
-# Trip Planner: Your Autonomous Travel Companion 🌍✈️
+# travel-agent
 
-Welcome to Trip Planner, your ultimate autonomous agent powered by Crew AI. Whether you're planning a spontaneous weekend getaway or a meticulously organized world tour, Trip Planner has got you covered. With seamless integration of Serper API for automated Google search, Browserless API for headless browsing, and the versatility of GPT-3.5/4, your trip planning experience is about to level up!
+Welcome to Trip Planner, your ultimate autonomous agent powered by crew AI. Whether you're planning a spontaneous weekend getaway or a meticulously organized world tour, Trip Planner has got you covered. With seamless integration of Serper API for automated Google search, Browserless API for headless browsing, and the versatility of GPT-3.5/4, your trip planning experience is about to level up!
 
 ## Features:
 
@@ -15,7 +15,7 @@ Welcome to Trip Planner, your ultimate autonomous agent powered by Crew AI. Whet
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
 3. Set up your API keys for Serper and Browserless APIs and your OPEN_AI API keys in secrets.example file.
-4. Run the application using `streamlit run trip_planner.py`.
+4. Run the application using `streamlit run streamlit_app.py`.
 5. Start planning your next adventure with Trip Planner!
 
 ## Usage:
